@@ -49,11 +49,31 @@ body{
     font-size:100%;
     line-height:1.5;
     background-color:#DEB887;
+  }
 
+    .CA{
+      background-color: #C0C0C0;
     
     
 }
 
+  .creative{
+    background-color:#99CC33; 
+  }
+
+  .Fine{
+    background-color: #99CC33;
+  }
+    .PA{
+      background-color:#C0C0C0; 
+    }
+      .MA{
+        background-color: #99CC33;
+      }
+
+  .track.FA{
+    background-color: #FF6600;
+  }
 p{
     margin-bottom:1em;
 }
